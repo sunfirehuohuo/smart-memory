@@ -205,7 +205,7 @@ Update-MemoryIndex
 
 如果 Smart Memory 帮到了你，欢迎赞赏支持！
 
-![微信支付](./assets/wechat-pay.png)
+![微信支付](./assets/赞赏码.jpg)
 
 **赞赏将用于：**
 - 持续维护更新
